@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\bin\Debug\tournament.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\bin\Debug\tournament.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\obj\x86\Debug\tournament.Form1.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\obj\x86\Debug\tournament.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\obj\x86\Debug\tournament.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\obj\x86\Debug\tournament.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\obj\x86\Debug\tournament.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\bin\Debug\Tournament.accdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\bin\Debug\tournament.exe.config
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\tournament\tournament\obj\x86\Debug\tournament.csprojResolveAssemblyReference.cache
